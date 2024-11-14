@@ -1,0 +1,60 @@
+.rectangle{
+    width: 1024px;
+    height: 118px;
+    /* background-color: blue; */
+}
+.square{
+    width: 1024px;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0.233);
+   
+    
+}
+.french{
+    width: 1024px;
+    height: 400px;
+    /* background-color: green; */
+    
+}
+.fries{
+    width: 1024px;
+    height: 500px;
+    /* background-color: yellow; */
+}
+.lies{
+    width: 1024px;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0.466);
+    padding: 10px;
+    color: white;
+
+}
+body {
+    background-image: url(background.jpg);
+    
+
+}
+.square a{
+    color: grey;
+    text-decoration: none;
+    margin: 10px;
+    
+}
+nav {
+  padding-top: 10px;
+}
+
+.vvv{
+    color: white;
+    
+}
+
+.hello{
+    margin-bottom: 40px;
+    width: 500px;
+}
+
+.lol{
+    font-size: 56px;
+
+}
